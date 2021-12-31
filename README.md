@@ -6,7 +6,7 @@ This course covers elementary computational techniques for solving mathematical 
 <br/>
 
 
-#### This repository contatins my solution of assignment!
+#### This repository contatins my solution of assignments/exam!
 <br/>
 
 
@@ -30,4 +30,4 @@ CCTV_video_processing| Image(video)-Processing
 Power_demand_prediction| Least-squares solution
 Categorizing_FIFA19_soccer_players| K-means Algorithm
 Midterm_2020a| Polar Coordinate
-Final_2020a| Slam
+Final_2020a| SLAM
